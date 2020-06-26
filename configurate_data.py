@@ -5,6 +5,8 @@ import os
 
 from PIL import Image
 
+import common as c
+
 directory = ['./images/lizard/']
 
 if __name__ == "__main__":
